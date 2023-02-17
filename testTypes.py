@@ -1,5 +1,5 @@
 # testTypes.py
-#this program
+#this program is testing out different varibales
 #Author Debi Gormley
 
 
